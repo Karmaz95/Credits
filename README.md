@@ -15,6 +15,9 @@
 * [CVE-2025-4412: TCC Bypass via Dylib Loading in Viscosity.app](https://www.cve.org/CVERecord?id=CVE-2025-4412)
 ---
 
+### Desktop App - Windows
+* [CVE-2024-24916: DLL HiJacking in SmartConsole for R82](https://www.cve.org/CVERecord?id=CVE-2024-24916)
+
 ### Web App
 * [CVE-2023-1478: Hummingbird < 3.4.2 - Unauthenticated Path Traversal](https://wpscan.com/vulnerability/512a9ba4-01c0-4614-a991-efdc7fe51abe)
 * [CVE-2023-38419: K000133472: BIG-IP and BIG-IQ iControl SOAP vulnerability](https://my.f5.com/manage/s/article/K000133472)
