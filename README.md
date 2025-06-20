@@ -13,6 +13,8 @@
 * [CC-2390: Local Privilege Escalation in KeeperChat](https://docs.keeper.io/en/release-notes/desktop/keeperchat/keeperchat-client-release-17.0)
 * [CVE-2025-4280: TCC Bypass via Inherited Permissions in Bundled Interpreter in Poedit.app](https://www.cve.org/CVERecord?id=CVE-2025-4280)
 * [CVE-2025-4412: TCC Bypass via Dylib Loading in Viscosity.app](https://www.cve.org/CVERecord?id=CVE-2025-4412)
+* [CVE-2025-5963: TCC Bypass via Dylib Injection in Postbox](https://www.cve.org/CVERecord?id=CVE-2025-5963)
+* [CVE-2025-5255: TCC Bypass via Dylib Injection in Phoenix Code](https://www.cve.org/CVERecord?id=CVE-2025-5255)
 ---
 
 ### Desktop App - Windows
