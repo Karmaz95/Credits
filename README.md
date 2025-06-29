@@ -19,6 +19,7 @@
 
 ### Desktop App - Windows
 * [CVE-2024-24916: DLL HiJacking in SmartConsole for R82](https://www.cve.org/CVERecord?id=CVE-2024-24916)
+* [CVE-2024-24915: Credential Exposure via Memory Dump in SmartConsole](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-24915)
 
 ### Web App
 * [CVE-2023-1478: Hummingbird < 3.4.2 - Unauthenticated Path Traversal](https://wpscan.com/vulnerability/512a9ba4-01c0-4614-a991-efdc7fe51abe)
