@@ -1,5 +1,6 @@
 ### Operating System - macOS
 - [Kext Management - Info leak on kext load](https://support.apple.com/en-ca/122373)
+- [CVE-NONE: Entitlement Bypass & NULL Pointer Dereference in IOMobileFramebuffer](https://afine.com/case-study-iomobileframebuffer-null-pointer-dereference/)
 ---
 
 ### Operating System - Windows
