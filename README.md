@@ -8,15 +8,15 @@
 ---
 
 ### Desktop App - macOS
-* [CVE-2025-1413: Local Privilege Escalation in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-1413)
-* [CVE-2025-4081: TCC Bypass via Dylib Substitution in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-4081)
-* [CVE-2025-2098: Local Privilege Escalation in Fast CAD Reader](https://www.cve.org/cverecord?id=CVE-2025-2098)
-* [CC-2390: Local Privilege Escalation in KeeperChat](https://docs.keeper.io/en/release-notes/desktop/keeperchat/keeperchat-client-release-17.0)
+* [CVE-2025-1413: Local Privilege Escalation due to world-writeable permissions in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-1413)
+* [CVE-2025-4081: TCC Bypass via Dylib Injection in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-4081)
+* [CVE-2025-2098: Local Privilege Escalation due to world-writeable permissions in Fast CAD Reader](https://www.cve.org/cverecord?id=CVE-2025-2098)
+* [CC-2390: Local Privilege Escalation due to world-writeable permissions in KeeperChat](https://docs.keeper.io/en/release-notes/desktop/keeperchat/keeperchat-client-release-17.0)
 * [CVE-2025-4280: TCC Bypass via Inherited Permissions in Bundled Interpreter in Poedit.app](https://www.cve.org/CVERecord?id=CVE-2025-4280)
-* [CVE-2025-4412: TCC Bypass via Dylib Loading in Viscosity.app](https://www.cve.org/CVERecord?id=CVE-2025-4412)
+* [CVE-2025-4412: TCC Bypass via Dylib Injection in Viscosity.app](https://www.cve.org/CVERecord?id=CVE-2025-4412)
 * [CVE-2025-5963: TCC Bypass via Dylib Injection in Postbox](https://www.cve.org/CVERecord?id=CVE-2025-5963)
 * [CVE-2025-5255: TCC Bypass via Dylib Injection in Phoenix Code](https://www.cve.org/CVERecord?id=CVE-2025-5255)
-* [CVE-2025-22165: Local Privilege Escalation in Sourcetree](https://www.cve.org/CVERecord?id=CVE-2025-22165)
+* [CVE-2025-22165: Local Privilege Escalation due to world-writeable permissions in Sourcetree](https://www.cve.org/CVERecord?id=CVE-2025-22165)
 ---
 
 ### Desktop App - Windows
