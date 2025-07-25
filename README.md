@@ -16,6 +16,7 @@
 * [CVE-2025-4412: TCC Bypass via Dylib Loading in Viscosity.app](https://www.cve.org/CVERecord?id=CVE-2025-4412)
 * [CVE-2025-5963: TCC Bypass via Dylib Injection in Postbox](https://www.cve.org/CVERecord?id=CVE-2025-5963)
 * [CVE-2025-5255: TCC Bypass via Dylib Injection in Phoenix Code](https://www.cve.org/CVERecord?id=CVE-2025-5255)
+* [CVE-2025-22165: Local Privilege Escalation in Sourcetree](https://www.cve.org/CVERecord?id=CVE-2025-22165)
 ---
 
 ### Desktop App - Windows
