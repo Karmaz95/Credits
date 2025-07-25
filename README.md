@@ -8,7 +8,7 @@
 ---
 
 ### Desktop App - macOS
-* [CVE-2025-1413: Dylib Hijacking in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-1413)
+* [CVE-2025-1413: Local Privilege Escalation in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-1413)
 * [CVE-2025-4081: TCC Bypass via Dylib Substitution in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-4081)
 * [CVE-2025-2098: Dylib Hijacking in Fast CAD Reader](https://www.cve.org/cverecord?id=CVE-2025-2098)
 * [CC-2390: Local Privilege Escalation in KeeperChat](https://docs.keeper.io/en/release-notes/desktop/keeperchat/keeperchat-client-release-17.0)
