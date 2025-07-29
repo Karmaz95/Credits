@@ -1,6 +1,6 @@
 ### Operating System - macOS
 - [ACKNOWLEDGE: IOKit - Stack Buffer Overflow in IOFrameMobile Driver](https://support.apple.com/en-us/124149)
-- [ACKNOWLEDGE: IOKit - AppleJPEGDriver Kernel Memory Exhaustion / Memory Leak](https://support.apple.com/en-ca/122373)
+- [ACKNOWLEDGE: IOKit - AppleJPEGDriver Kernel Memory Exhaustion / Memory Leak](https://support.apple.com/en-us/124149)
 - [ACKNOWLEDGE: Kext Management - Info leak on kext load](https://support.apple.com/en-ca/122373)
 - [CVE-NONE: Entitlement Bypass & NULL Pointer Dereference in IOMobileFramebuffer](https://afine.com/case-study-iomobileframebuffer-null-pointer-dereference/)
 ---
