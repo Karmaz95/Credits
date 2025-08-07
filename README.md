@@ -19,6 +19,7 @@
 * [CVE-2025-4412: TCC Bypass via Dylib Injection in Viscosity.app](https://www.cve.org/CVERecord?id=CVE-2025-4412)
 * [CVE-2025-5963: TCC Bypass via Dylib Injection in Postbox](https://www.cve.org/CVERecord?id=CVE-2025-5963)
 * [CVE-2025-5255: TCC Bypass via Dylib Injection in Phoenix Code](https://www.cve.org/CVERecord?id=CVE-2025-5255)
+* [CVE-2024-23739: TCC Bypass via misconfigured Node fuses in Discord](https://www.cve.org/CVERecord?id=CVE-2024-23739)
 * [CVE-2025-22165: Local Privilege Escalation due to world-writeable permissions in Sourcetree](https://www.cve.org/CVERecord?id=CVE-2025-22165)
 ---
 
