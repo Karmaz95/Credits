@@ -10,6 +10,7 @@
 ---
 
 ### Desktop App - macOS
+* [CVE-2025-8533: Incorrect Authorization of XPC Service in Fantastical](https://www.cve.org/CVERecord?id=CVE-2025-8533)
 * [CVE-2025-1413: Local Privilege Escalation due to world-writeable permissions in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-1413)
 * [CVE-2025-4081: TCC Bypass via Dylib Injection in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-4081)
 * [CVE-2025-2098: Local Privilege Escalation due to world-writeable permissions in Fast CAD Reader](https://www.cve.org/cverecord?id=CVE-2025-2098)
