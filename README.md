@@ -10,6 +10,10 @@
 ---
 
 ### Desktop App - macOS
+* [CVE-2025-8700: Privilege Escalation via get-task-allow entitlement in Invoice Ninja](https://www.cve.org/CVERecord?id=CVE-2025-8700)
+* [CVE-2025-8597: Privilege Escalation via get-task-allow entitlement in MacVim](https://www.cve.org/CVERecord?id=CVE-2025-8597)
+* [CVE-2025-53813: TCC Bypass via misconfigured Node fuses in Nozbe](https://www.cve.org/CVERecord?id=CVE-2025-53813)
+* [CVE-2025-9190: TCC Bypass via misconfigured Node fuses in Cursor](https://www.cve.org/CVERecord?id=CVE-2025-9190)
 * [CVE-2025-53811: TCC Bypass via misconfigured Node fuses in Mosh-Pro](https://www.cve.org/CVERecord?id=CVE-2025-53811)
 * [CVE-2025-8672: TCC Bypass via Inherited Permissions in Bundled Interpreter in GIMP](https://www.cve.org/CVERecord?id=CVE-2025-8672)
 * [CVE-2025-8533: Incorrect Authorization of XPC Service in Fantastical](https://www.cve.org/CVERecord?id=CVE-2025-8533)
