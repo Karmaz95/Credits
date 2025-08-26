@@ -10,6 +10,7 @@
 ---
 
 ### Desktop App - macOS
+* [CVE-2025-53811: TCC Bypass via misconfigured Node fuses in Mosh-Pro](https://www.cve.org/CVERecord?id=CVE-2025-53811)
 * [CVE-2025-8672: TCC Bypass via Inherited Permissions in Bundled Interpreter in GIMP](https://www.cve.org/CVERecord?id=CVE-2025-8672)
 * [CVE-2025-8533: Incorrect Authorization of XPC Service in Fantastical](https://www.cve.org/CVERecord?id=CVE-2025-8533)
 * [CVE-2025-1413: Local Privilege Escalation due to world-writeable permissions in DaVinci Resolve](https://www.cve.org/CVERecord?id=CVE-2025-1413)
