@@ -10,6 +10,8 @@
 ---
 
 ### Desktop App - macOS
+* [CVE-2025-10015: TCC Bypass via Downloader XPC Service in Sparkle](https://cve.org/CVERecord?id=CVE-2025-10015)
+* [CVE-2025-10016: Local Privilege Escalation in Sparkle Autoupdate Daemon](https://cve.org/CVERecord?id=CVE-2025-10016)
 * [CVE-2025-8700: Privilege Escalation via get-task-allow entitlement in Invoice Ninja](https://www.cve.org/CVERecord?id=CVE-2025-8700)
 * [CVE-2025-8597: Privilege Escalation via get-task-allow entitlement in MacVim](https://www.cve.org/CVERecord?id=CVE-2025-8597)
 * [CVE-2025-53813: TCC Bypass via misconfigured Node fuses in Nozbe](https://www.cve.org/CVERecord?id=CVE-2025-53813)
