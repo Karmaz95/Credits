@@ -10,6 +10,8 @@
 ---
 
 ### Desktop App - macOS
+* [CVE-2025-64724: Insecure File Permissions in Arduino IDE for macOS](https://github.com/arduino/arduino-ide/security/advisories/GHSA-3fvj-pgqw-fgw6)
+* [CVE-2025-64723: TCC Bypass via Dynamic Library Injection in Arduino IDE for macOS](https://github.com/arduino/arduino-ide/security/advisories/GHSA-vf5j-xhwq-8vqj)
 * [CVE-2025-14714: TCC Bypass via Inherited Permissions in Bundled Interpreter](https://www.libreoffice.org/about-us/security/advisories/cve-2025-14714)
 * [CVE-2025-64897: Local Privilege Escalation due to world-writeable permissions in Adobe ColdFusion](https://helpx.adobe.com/security/products/coldfusion/apsb25-105.html)
 * [CVE-2025-10015: TCC Bypass via Downloader XPC Service in Sparkle](https://cve.org/CVERecord?id=CVE-2025-10015)
