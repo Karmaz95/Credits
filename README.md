@@ -1,4 +1,5 @@
 ### Operating System - macOS
+- [ACKNOWLEDGE: TCC - Guest/low privileged user to admin escalation using misconfigured third-party apps](https://support.apple.com/en-us/126794)
 - [ACKNOWLEDGE: IOKit - Stack Buffer Overflow in IOFrameMobile Driver](https://support.apple.com/en-us/124149)
 - [ACKNOWLEDGE: IOKit - AppleJPEGDriver Kernel Memory Exhaustion / Memory Leak](https://support.apple.com/en-us/124149)
 - [ACKNOWLEDGE: Kext Management - Info leak on kext load](https://support.apple.com/en-ca/122373)
@@ -10,6 +11,7 @@
 ---
 
 ### Desktop App - macOS
+* [CVE-2025-15523: TCC Bypass via Inherited Permissions in Bundled Interpreter in Inkscape.app](https://www.cve.org/CVERecord?id=CVE-2025-15523)
 * [CVE-2025-64724: Insecure File Permissions in Arduino IDE for macOS](https://github.com/arduino/arduino-ide/security/advisories/GHSA-3fvj-pgqw-fgw6)
 * [CVE-2025-64723: TCC Bypass via Dynamic Library Injection in Arduino IDE for macOS](https://github.com/arduino/arduino-ide/security/advisories/GHSA-vf5j-xhwq-8vqj)
 * [CVE-2025-14714: TCC Bypass via Inherited Permissions in Bundled Interpreter](https://www.libreoffice.org/about-us/security/advisories/cve-2025-14714)
