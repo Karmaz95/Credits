@@ -1,10 +1,5 @@
 ### Operating System - macOS
-* ACKNOWLEDGE: IOKit AppleKeyStore memory leak on multiple devices, patched in:
-  * [iOS 27 and iPadOS 27](https://support.apple.com/149038)
-  * [macOS 27](https://support.apple.com/149037)
-  * [tvOS 27](https://support.apple.com/149036)
-  * [visionOS 27](https://support.apple.com/149035)
-  * [watchOS 27](https://support.apple.com/149034)
+* ACKNOWLEDGE: IOKit AppleKeyStore memory leak on multiple devices, patched in: [iOS 27 and iPadOS 27](https://support.apple.com/149038), [macOS 27](https://support.apple.com/149037), [tvOS 27](https://support.apple.com/149036), [visionOS 27](https://support.apple.com/149035), [watchOS 27](https://support.apple.com/149034)
 * [ACKNOWLEDGE: TCC - Guest/low privileged user to admin escalation using misconfigured third-party apps](https://support.apple.com/en-us/126794)
 * [ACKNOWLEDGE: IOKit - Stack Buffer Overflow in IOFrameMobile Driver](https://support.apple.com/en-us/124149)
 * [ACKNOWLEDGE: IOKit - AppleJPEGDriver Kernel Memory Exhaustion / Memory Leak](https://support.apple.com/en-us/124149)
